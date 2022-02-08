@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+    width: 100%;
+    height: 500px;
+}
+
+h1{
+    text-align: center;
+}
+
+myTable{
+    width: 90%;
+    border: 1px solid black;
+}
+td {
+    text-align: left;
+    border: .5px solid black;
+    width: 250px;
+    height: 50px;
+    background-color:ghostwhite;
+}
